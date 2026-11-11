@@ -1,2 +1,2 @@
 # rosalind
-Solutions to Rosalind problems
+Solutions to Rosalind problems (Language: C++)
