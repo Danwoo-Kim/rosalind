@@ -1,4 +1,4 @@
 # rosalind
-Solutions to Rosalind(https://rosalind.info/problems/locations) problems 
+Solutions to rosalind(https://rosalind.info/problems/locations) problems 
 
 Language: C++
